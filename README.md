@@ -8,7 +8,9 @@ DATA USED:-
 EXPLORATORY DATA ANALYSIS:-
 - With the help of Seaborn and Matplotlib, many charts and graphs were plotted
 - This step is crucial as it helps in visualizing differnet relationships between each feature present in the dataset
+
 Observations:-
+
 1. Male customers are more in number - 3384 and among them 17% are churned
 2. Among females- 2246, around 16% are churned
 3. Most of the customers prefer mobile phones as login device, and only around 13% churn is seen
@@ -24,7 +26,9 @@ DATA PREPROCESSING:-
 - Since the dataset is large, null values are removed from the dataset
   
 FEATURE ENGINEERING:-
+
 One hot encoding:
+
 - As, there are multi columns with categorical variables, label encoding was used, through which the data was ready for undergoing model buliding process
 
 FEATURE SELECTION:-
