@@ -2,7 +2,7 @@ Customer Churn Analysis and Prediction
   
 DATA USED:-
 - Source -->  https://www.kaggle.com/datasets/ankitverma2010/ecommerce-customer-churn-analysis-and-prediction/data
-- The dataset used in this project is based on an e-commerce company who wants to know number of customers who are going to churn 
+- The dataset used in this project is based on an e-commerce company which wants to know number of customers who are going to churn 
   
   
 EXPLORATORY DATA ANALYSIS:-
